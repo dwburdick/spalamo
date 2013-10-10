@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dave Burdick -- Everything after the fork -- @daveburdick
+
+# THANKS
+
+    @schneidan and tutorials everywhere. 
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
